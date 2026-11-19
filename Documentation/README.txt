@@ -35,7 +35,7 @@ LFHS_PDF_Collection/ (377 Total Files: 372 Catalogued PDFs + 5 Documentation Fil
 │   ├── Worksheets/ (6 PDFs)
 │   └── Question_Banks/ (8 PDFs)
 ├── Class_10/ (150 PDFs • 5,022 Pages • 939.46 MB)
-│   ├── Textbooks/ (19 PDFs)
+│   ├── Textbooks/ (22 PDFs)
 │   ├── Model_Examination_Papers/ (43 PDFs)
 │   ├── Chapter_Wise_Notes/ (48 PDFs)
 │   ├── Previous_Year_Papers/ (22 PDFs)
