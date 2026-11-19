@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "generated": "2026-11-10T15:15:00Z",
-  "count": 362,
+  "generated": "2026-11-19T15:21:00Z",
+  "count": 372,
   "repos": {
     "8": "https://zephyie.github.io/lfhs-1",
     "9": "https://zephyie.github.io/lfhs-2",
@@ -8046,6 +8046,216 @@
       "bytes": 1322269,
       "cat": "Question_Banks",
       "file": "Class10_QuestionBank_Vijayabheri2026_SocialScience.pdf"
+    },
+    {
+      "id": "LFHS-363",
+      "isPdf": true,
+      "cls": "8",
+      "subj": "malayalam",
+      "types": [
+        "textbook"
+      ],
+      "year": "2025",
+      "medium": "Malayalam",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-8-Malayalam-Kerala-Padavali-Part-1.pdf",
+      "title": "Kerala Padavali Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 8 Kerala Padavali textbook, Part 1 (2025), Malayalam.",
+      "pages": 88,
+      "size": "36.93 MB",
+      "bytes": 38720165,
+      "cat": "Textbooks",
+      "file": "Class-8-Malayalam-Kerala-Padavali-Part-1.pdf"
+    },
+    {
+      "id": "LFHS-364",
+      "isPdf": true,
+      "cls": "8",
+      "subj": "malayalam",
+      "types": [
+        "textbook"
+      ],
+      "year": "2025",
+      "medium": "Malayalam",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-8-Malayalam-Adisthana-Padavali-Part-1.pdf",
+      "title": "Adisthana Padavali Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 8 Adisthana Padavali textbook, Part 1 (2025), Malayalam.",
+      "pages": 48,
+      "size": "20.16 MB",
+      "bytes": 21144130,
+      "cat": "Textbooks",
+      "file": "Class-8-Malayalam-Adisthana-Padavali-Part-1.pdf"
+    },
+    {
+      "id": "LFHS-365",
+      "isPdf": true,
+      "cls": "8",
+      "subj": "hindi",
+      "types": [
+        "textbook"
+      ],
+      "year": "2025",
+      "medium": "Hindi",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-8-Hindi-Part-1.pdf",
+      "title": "Hindi Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 8 Hindi textbook, Part 1 (2025), Hindi.",
+      "pages": 96,
+      "size": "58.66 MB",
+      "bytes": 61505898,
+      "cat": "Textbooks",
+      "file": "Class-8-Hindi-Part-1.pdf"
+    },
+    {
+      "id": "LFHS-366",
+      "isPdf": true,
+      "cls": "9",
+      "subj": "malayalam",
+      "types": [
+        "textbook"
+      ],
+      "year": "2024",
+      "medium": "Malayalam",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-9-Malayalam-Kerala-Padavali-Part-1.pdf",
+      "title": "Kerala Padavali Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 9 Kerala Padavali textbook, Part 1 (2024), Malayalam.",
+      "pages": 56,
+      "size": "30.85 MB",
+      "bytes": 32346338,
+      "cat": "Textbooks",
+      "file": "Class-9-Malayalam-Kerala-Padavali-Part-1.pdf"
+    },
+    {
+      "id": "LFHS-367",
+      "isPdf": true,
+      "cls": "9",
+      "subj": "malayalam",
+      "types": [
+        "textbook"
+      ],
+      "year": "2024",
+      "medium": "Malayalam",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-9-Malayalam-Kerala-Padavali-Part-2.pdf",
+      "title": "Kerala Padavali Textbook — Part 2",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 9 Kerala Padavali textbook, Part 2 (2024), Malayalam.",
+      "pages": 40,
+      "size": "21.03 MB",
+      "bytes": 22050112,
+      "cat": "Textbooks",
+      "file": "Class-9-Malayalam-Kerala-Padavali-Part-2.pdf"
+    },
+    {
+      "id": "LFHS-368",
+      "isPdf": true,
+      "cls": "9",
+      "subj": "malayalam",
+      "types": [
+        "textbook"
+      ],
+      "year": "2024",
+      "medium": "Malayalam",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-9-Malayalam-Adisthana-Padavali-Part-1.pdf",
+      "title": "Adisthana Padavali Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 9 Adisthana Padavali textbook, Part 1 (2024), Malayalam.",
+      "pages": 56,
+      "size": "46.07 MB",
+      "bytes": 48311750,
+      "cat": "Textbooks",
+      "file": "Class-9-Malayalam-Adisthana-Padavali-Part-1.pdf"
+    },
+    {
+      "id": "LFHS-369",
+      "isPdf": true,
+      "cls": "9",
+      "subj": "hindi",
+      "types": [
+        "textbook"
+      ],
+      "year": "2024",
+      "medium": "Hindi",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-9-Hindi-Part-1.pdf",
+      "title": "Hindi Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 9 Hindi textbook, Part 1 (2024), Hindi.",
+      "pages": 96,
+      "size": "10.63 MB",
+      "bytes": 11145062,
+      "cat": "Textbooks",
+      "file": "Class-9-Hindi-Part-1.pdf"
+    },
+    {
+      "id": "LFHS-370",
+      "isPdf": true,
+      "cls": "10",
+      "subj": "malayalam",
+      "types": [
+        "textbook"
+      ],
+      "year": "2025",
+      "medium": "Malayalam",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-10-Malayalam-Kerala-Padavali-Part-1.pdf",
+      "title": "Kerala Padavali Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 10 Kerala Padavali textbook, Part 1 (2025), Malayalam.",
+      "pages": 96,
+      "size": "55.84 MB",
+      "bytes": 58551592,
+      "cat": "Textbooks",
+      "file": "Class-10-Malayalam-Kerala-Padavali-Part-1.pdf"
+    },
+    {
+      "id": "LFHS-371",
+      "isPdf": true,
+      "cls": "10",
+      "subj": "malayalam",
+      "types": [
+        "textbook"
+      ],
+      "year": "2025",
+      "medium": "Malayalam",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-10-Malayalam-Adisthana-Padavali-Part-1.pdf",
+      "title": "Adisthana Padavali Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 10 Adisthana Padavali textbook, Part 1 (2025), Malayalam.",
+      "pages": 64,
+      "size": "49.27 MB",
+      "bytes": 51658149,
+      "cat": "Textbooks",
+      "file": "Class-10-Malayalam-Adisthana-Padavali-Part-1.pdf"
+    },
+    {
+      "id": "LFHS-372",
+      "isPdf": true,
+      "cls": "10",
+      "subj": "hindi",
+      "types": [
+        "textbook"
+      ],
+      "year": "2025",
+      "medium": "Hindi",
+      "src": "samagra",
+      "url": "https://zephyie.github.io/lfhs-4/Textbooks/Class-10-Hindi-Part-1.pdf",
+      "title": "Hindi Textbook — Part 1",
+      "kind": "Official SCERT Textbook",
+      "desc": "Official SCERT Kerala Class 10 Hindi textbook, Part 1 (2025), Hindi.",
+      "pages": 104,
+      "size": "35.55 MB",
+      "bytes": 37280966,
+      "cat": "Textbooks",
+      "file": "Class-10-Hindi-Part-1.pdf"
     }
   ]
 }
